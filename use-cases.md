@@ -13,6 +13,9 @@ In this file, use cases for nanopublications in scholarly contexts are being col
 e.g. the intent to
 - participate in an event
 - perform research of a certain kind (this is relevant, e.g., in the contexts of research funding, general research resource allocation and ethical review)
+- allow certain kinds of uses for a resource, e.g. as per
+  - copyright licenses
+  - Digital Use Conditions
 
 # Conveying methodological details
 
