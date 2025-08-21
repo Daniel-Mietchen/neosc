@@ -1,2 +1,1 @@
-# neosc
-nanopublication-Enhanced Open Science Communication (nEOSC) - https://knowledgepixels.com/incubator.html
+This repo assists the project [nanopublication-Enhanced Open Science Communication (nEOSC)](https://knowledgepixels.com/incubator.html), which explores the use of nanopublications across the research landscape and all around the research cycle.
