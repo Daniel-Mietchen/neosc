@@ -15,7 +15,10 @@ e.g. the intent to
 - perform research of a certain kind (this is relevant, e.g., in the contexts of research funding, general research resource allocation and ethical review)
 - allow certain kinds of uses for a resource, e.g. as per
   - copyright licenses
+    - see https://github.com/Daniel-Mietchen/ideas/issues/1803 for expressing the licensing of a given resource
+    - see https://github.com/Daniel-Mietchen/ideas/issues/1805 for defining a default license for (future) nanopublications published by a specific user 
   - Digital Use Conditions
+    - see https://doi.org/10.1038/s41597-024-03280-6 for background
 
 # Conveying methodological details
 
