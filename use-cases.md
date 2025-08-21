@@ -3,6 +3,7 @@ In this file, use cases for nanopublications in scholarly contexts are being col
 # Conveying changes
 
 * see dedicated ticket at https://github.com/Daniel-Mietchen/ideas/issues/1804 .
+* see also https://github.com/globalbioticinteractions/elton/issues/74 for reviewing changes of datasets
 
 # Conveying gratitude
 
