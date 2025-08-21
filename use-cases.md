@@ -33,11 +33,12 @@ e.g. the intent to
 
 # Reporting bugs
 
-* see dedicated ticket at https://github.com/Daniel-Mietchen/ideas/issues/1802 .
+* see dedicated ticket at https://github.com/Daniel-Mietchen/ideas/issues/1802 and the associated example at https://github.com/Daniel-Mietchen/ideas/issues/1806 .
 
 # Submitting change requests
 
 These could be, for instance,
 - feature requests in a software repo
 - requests for including a new concept into an ontology
+- bug fixes, e.g. as per https://github.com/Daniel-Mietchen/ideas/issues/1806
 
