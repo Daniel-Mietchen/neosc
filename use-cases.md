@@ -4,6 +4,7 @@ In this file, use cases for nanopublications in scholarly contexts are being col
 
 * see dedicated ticket at https://github.com/Daniel-Mietchen/ideas/issues/1804 .
 * see also https://github.com/globalbioticinteractions/elton/issues/74 for reviewing changes of datasets
+* see also https://github.com/knowledgepixels/nanodash/issues/234 for documenting changes of nanopublication query results
 
 # Conveying gratitude
 
