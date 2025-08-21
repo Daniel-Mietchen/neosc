@@ -31,6 +31,14 @@ e.g. the intent to
 
 - e.g. measurement values, or whether a theorem was proven
 
+# Defining crosswalks
+
+- https://w3id.org/np/RAydHipBQSHQ2v9CQ4kKZTeNhVPWpd9K55cpeCrARg-FM "Defining a Crosswalk"
+- crosswalks between JATS and nanopublications, building on [jats2rdf]([url](https://www.ncbi.nlm.nih.gov/books/NBK100491/))
+- crosswalks between nanopublications and Wikidata/ Wikibase edits 
+- crosswalks between nanopublications and git commits 
+- crosswalks between nanopublications and ActivityPub 
+ 
 # Reporting bugs
 
 * see dedicated ticket at https://github.com/Daniel-Mietchen/ideas/issues/1802 and the associated example at https://github.com/Daniel-Mietchen/ideas/issues/1806 .
