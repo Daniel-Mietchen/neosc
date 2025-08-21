@@ -23,7 +23,8 @@ e.g. the intent to
 
 # Conveying methodological details
 
-- e.g. the use of specific chemicals, theorems or software packages 
+- e.g. the use of specific chemicals, theorems or software packages
+- see also https://nanodash.knowledgepixels.com/explore?0&id=RAYgUwjV570tqZLNNsBuIoVtQ0lwy_GNpzDzSZVv36dzo for expressing CiTO relations between an article and a digital object  
 
 # Conveying results
 
