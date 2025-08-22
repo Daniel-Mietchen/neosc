@@ -1,10 +1,15 @@
 In this file, use cases for nanopublications in scholarly contexts are being collected.
 
+# Conveying assumptions
+
+e.g. the conditions under which the reached conclusions are expected to be valid
+
 # Conveying changes
 
 * see dedicated ticket at https://github.com/Daniel-Mietchen/ideas/issues/1804 .
 * see also https://github.com/globalbioticinteractions/elton/issues/74 for reviewing changes of datasets
 * see also https://github.com/knowledgepixels/nanodash/issues/234 for documenting changes of nanopublication query results
+* curation events, e.g. in author disambiguation
 
 # Conveying gratitude
 
@@ -25,7 +30,9 @@ e.g. the intent to
 # Conveying methodological details
 
 - e.g. the use of specific chemicals, theorems or software packages
-- see also https://nanodash.knowledgepixels.com/explore?0&id=RAYgUwjV570tqZLNNsBuIoVtQ0lwy_GNpzDzSZVv36dzo for expressing CiTO relations between an article and a digital object  
+- see also https://nanodash.knowledgepixels.com/explore?0&id=RAYgUwjV570tqZLNNsBuIoVtQ0lwy_GNpzDzSZVv36dzo for expressing CiTO relations between an article and a digital object
+- see also theorem provers like LEAN
+- see also hypothesis descriptions as in https://doi.org/10.3897/rio.10.e119805
 
 # Conveying results
 
@@ -38,7 +45,11 @@ e.g. the intent to
 - crosswalks between nanopublications and Wikidata/ Wikibase edits 
 - crosswalks between nanopublications and git commits 
 - crosswalks between nanopublications and ActivityPub 
- 
+
+# Participatory science
+
+- e.g. "online quantum contributions" as per https://doi.org/10.1016%2FJ.TREE.2011.10.010
+
 # Reporting bugs
 
 * see dedicated ticket at https://github.com/Daniel-Mietchen/ideas/issues/1802 and the associated example at https://github.com/Daniel-Mietchen/ideas/issues/1806 .
