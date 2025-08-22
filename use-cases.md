@@ -45,6 +45,7 @@ e.g. the intent to
 - crosswalks between nanopublications and Wikidata/ Wikibase edits 
 - crosswalks between nanopublications and git commits 
 - crosswalks between nanopublications and ActivityPub 
+- crosswalks between nanopublications and proof assistant tactics 
 
 # Participatory science
 
