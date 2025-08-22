@@ -10,6 +10,7 @@ e.g. the conditions under which the reached conclusions are expected to be valid
 * see also https://github.com/globalbioticinteractions/elton/issues/74 for reviewing changes of datasets
 * see also https://github.com/knowledgepixels/nanodash/issues/234 for documenting changes of nanopublication query results
 * curation events, e.g. in author disambiguation
+* policy changes
 
 # Conveying gratitude
 
@@ -33,6 +34,10 @@ e.g. the intent to
 - see also https://nanodash.knowledgepixels.com/explore?0&id=RAYgUwjV570tqZLNNsBuIoVtQ0lwy_GNpzDzSZVv36dzo for expressing CiTO relations between an article and a digital object
 - see also theorem provers like LEAN
 - see also hypothesis descriptions as in https://doi.org/10.3897/rio.10.e119805
+
+# Conveying observations
+
+- e.g. sensor values, current legal situation
 
 # Conveying results
 
