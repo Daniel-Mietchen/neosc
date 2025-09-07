@@ -39,6 +39,10 @@ e.g. the intent to
 
 - e.g. sensor values, current legal situation
 
+# Conveying replication attempts
+
+- especially computational ones, e.g. as per https://doi.org/10.4230/TGDK.2.2.4
+
 # Conveying results
 
 - e.g. measurement values, or whether a theorem was proven
