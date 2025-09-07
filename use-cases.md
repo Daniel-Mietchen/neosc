@@ -1,4 +1,4 @@
-In this file, use cases for nanopublications in scholarly contexts are being collected.
+In this file, use cases for [nanopublications](https://nanopub.net/) in scholarly contexts are being collected.
 
 # Conveying assumptions
 
