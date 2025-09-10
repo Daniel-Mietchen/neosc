@@ -64,6 +64,10 @@ e.g. the intent to
 
 * see dedicated ticket at https://github.com/Daniel-Mietchen/ideas/issues/1802 and the associated example at https://github.com/Daniel-Mietchen/ideas/issues/1806 .
 
+# Reporting server issues
+
+* see https://github.com/br2s/bug-reports-to-science/issues/35 for an example
+
 # Submitting change requests
 
 These could be, for instance,
