@@ -62,7 +62,9 @@ e.g. the intent to
 
 # Reporting bugs
 
-* see dedicated ticket at https://github.com/Daniel-Mietchen/ideas/issues/1802 and the associated example at https://github.com/Daniel-Mietchen/ideas/issues/1806 .
+* see dedicated ticket at https://github.com/Daniel-Mietchen/ideas/issues/1802 and the associated examples:
+  * https://github.com/Daniel-Mietchen/ideas/issues/1806
+  * https://github.com/br2s/bug-reports-to-science/issues/36
 
 # Reporting server issues
 
